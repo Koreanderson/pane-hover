@@ -10,12 +10,31 @@
 	<div class="pane">
 		<div class="pane-info">
 			<h1>This is IU</h1>
+			<p>jQuery function</p>
+		</div>
+		<div>
+			<img src="assets/iu_thumb.jpg"/>
+		</div>
+	</div>
+
+	<div class="pane rotate">
+		<div class="pane-info">
+			<h1>This is IU</h1>
+			<p>CSS animation</p>
+		</div>
+		<div>
+			<img src="assets/iu_thumb.jpg"/>
+		</div>
+	</div>
+
+	<div class="pane">
+		<div class="pane-info">
+			<h1>This is IU</h1>
 			<p>Eating Icecream</p>
 		</div>
 		<div>
 			<img src="assets/iu_thumb.jpg"/>
 		</div>
-		<img src=""/>
 	</div>
 </div>
 </body>

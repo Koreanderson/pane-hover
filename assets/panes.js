@@ -1,12 +1,9 @@
 $(document).ready(function(){
-	$('.pane').hover(
+	$('.pane:first-child, .pane:nth-child(3) ').hover(
 		function(){
 			$(this).find('.pane-info').stop().fadeIn('fast');
 		}, function(){
 			$(this).find('.pane-info').stop().fadeOut('fast');
 		}
 	);
-});
-$(document).ready(function(){
-	
 });
