@@ -1,5 +1,7 @@
 $(document).ready(function(){
-	$('.pane:first-child, .pane:nth-child(3) ').hover(
+
+	$('.pane-fade > .pane-info').hide();
+	$('.pane-fade').hover(
 		function(){
 			$(this).find('.pane-info').stop().fadeIn('fast');
 		}, function(){
