@@ -55,6 +55,15 @@
 			<img src="assets/iu_thumb.jpg"/>
 		</div>
 	</div>
+	<div class="pane pane-center">
+		<div class="pane-info">
+			<h1>This is IU</h1>
+			<p>CSS Animation</p>
+		</div>
+		<div>
+			<img src="assets/iu_thumb.jpg"/>
+		</div>
+	</div>
 </div>
 </body>
 </html>

@@ -78,7 +78,7 @@ h1,h2,h3,h4,h5,h6,p{
 	opacity:1;
 }
 
-/* ----- Animation -----*/
+/* ----- Slide Animation -----*/
 
 .pane.pane-hslide > .pane-info{
 	left:-100%;
@@ -99,4 +99,35 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .pane.pane-vslide:hover > .pane-info{
 	top:0;
+}
+/* ----- Center Point Animation -----*/ 
+.pane.pane-center .pane-info{
+	display:block;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	left: 50%;
+	top: 50%;
+	margin: 0;
+	
+	transition: all .2s;
+	-moz-transition: all .2s;
+	-webkit-transition: all .2s;
+}
+.pane.pane-center:hover .pane-info{
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	padding:100px 0;
+
+}
+.pane.pane-center > .pane-info > *{
+	opacity:0;
+}
+.pane.pane-center:hover > .pane-info > *{
+	opacity:1;
+	transition: all .7s;
+	-moz-transition: all .7s;
+	-webkit-transition: all .7s;
 }
