@@ -2,7 +2,6 @@
 <head>
 	<link rel="stylesheet" href="assets/panes.css">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-	<script src="assets/panes.js"></script>
 </head>
 
 <body>
@@ -11,7 +10,7 @@
 		<div class="pane pane-fade">
 			<div class="pane-info">
 				<h1>Fade In</h1>
-				<p>jQuery function</p>
+				<p>CSS Animation</p>
 			</div>
 			<div>
 				<img src="assets/iu_thumb.jpg"/>
