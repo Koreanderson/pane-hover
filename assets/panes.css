@@ -8,16 +8,16 @@ h1,h2,h3,h4,h5,h6,p{
 .row{
 	display:block;
 	margin:0 auto;
-	width:1050px;
+	width:930px;
 }
 .pane{
 	width:300px;
-	height:250px;
+	height:200px;
 	overflow:hidden;
 	display:block;
 	float:left;
 	position:relative;
-	margin:25px;
+	margin:5px;
 }
 .pane img{
 	width: 100%;
@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6,p{
 	box-sizing:border-box;
 	-moz-box-sizing:border-box;
 	-webkit-box-sizing:border-box;
-	padding:100px 0;
+	padding:75px 0;
 	position:absolute;
 	text-align:center;
 }
@@ -144,7 +144,7 @@ h1,h2,h3,h4,h5,h6,p{
 	height:100%;
 	top:0;
 	left:0;
-	padding:100px 0;
+	padding:75px 0;
 
 }
 .pane-center .pane-info > *{

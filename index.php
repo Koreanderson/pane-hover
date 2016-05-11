@@ -23,7 +23,7 @@
 				<p>CSS animation</p>
 			</div>
 			<div>
-				<img src="assets/iu_thumb.jpg"/>
+				<img src="assets/cat_thumb.jpg"/>
 			</div>
 		</div>
 
@@ -33,7 +33,7 @@
 				<p>CSS Animation</p>
 			</div>
 			<div>
-				<img src="assets/iu_thumb.jpg"/>
+				<img src="assets/awesome_thumb.jpg"/>
 			</div>
 		</div>
 	</div><!-- /.row -->
@@ -44,7 +44,7 @@
 				<p>CSS Animation</p>
 			</div>
 			<div>
-				<img src="assets/iu_thumb.jpg"/>
+				<img src="assets/fox_thumb.jpg"/>
 			</div>
 		</div>
 		<div class="pane pane-vslide">
@@ -53,7 +53,7 @@
 				<p>CSS Animation</p>
 			</div>
 			<div>
-				<img src="assets/iu_thumb.jpg"/>
+				<img src="assets/jessica_thumb.jpg"/>
 			</div>
 		</div>
 		<div class="pane pane-center">
@@ -62,7 +62,7 @@
 				<p>CSS Animation</p>
 			</div>
 			<div>
-				<img src="assets/iu_thumb.jpg"/>
+				<img src="assets/tomato_thumb.png"/>
 			</div>
 		</div>
 	</div><!-- / .row -->
